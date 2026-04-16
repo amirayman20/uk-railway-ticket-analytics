@@ -211,10 +211,22 @@ uk-railway-ticket-analytics/
 
 ---
 
-# 📬 Connect With Me
-- **GitHub:** https://github.com/amirayman20  
-- **LinkedIn:** https://www.linkedin.com/in/amir-ayman-/  
-- **Email:** amirayman20@gmail.com  
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/amirayman20" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/amir-ayman-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:amirayman20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
@@ -357,7 +369,20 @@ uk-railway-ticket-analytics/
 ---
 
 # 📬 تواصل معي
-- **GitHub:** https://github.com/amirayman20  
-- **LinkedIn:** https://www.linkedin.com/in/amir-ayman-/  
-- **Email:** amirayman20@gmail.com  
+
+
+<p align="left">
+  <a href="https://github.com/amirayman20" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/amir-ayman-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:amirayman20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 

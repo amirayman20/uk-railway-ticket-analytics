@@ -69,7 +69,7 @@ A Date Table can be added in future versions for advanced time intelligence.
 ## 1️⃣ Home Page
 A clean landing page introducing the project.
 
-![Home Page](images/home_page.png)
+![Home Page](Images/home_page.png)
 
 ---
 
@@ -92,7 +92,7 @@ This page focuses on sales performance and customer behavior.
 - Top Departure Stations  
 - Top Arrival Stations  
 
-![Analysis Page](images/analysis_page.png)
+![Analysis Page](Images/analysis_page.png)
 
 ---
 
@@ -107,7 +107,7 @@ This page analyzes delays, cancellations, and refund behavior.
 - Refund Requests vs Journey Status  
 - Revenue by Ticket Type  
 
-![Operations Page](images/analysis_operations_page.png)
+![Operations Page](Images/analysis_operations_page.png)
 
 ---
 
@@ -121,7 +121,7 @@ This page focuses on revenue trends and time-based behavior.
 - Avg Ticket Price by Ticket Type & Class  
 - Monthly Revenue Trend  
 
-![Revenue Trends Page](images/analysis_revenue_trends_page.png)
+![Revenue Trends Page](Images/analysis_revenue_trends_page.png)
 
 ---
 
@@ -277,7 +277,7 @@ uk-railway-ticket-analytics/
 ## 1️⃣ صفحة البداية
 صفحة ترحيبية بسيطة.
 
-![Home Page](images/home_page.png)
+![Home Page](Images/home_page.png)
 
 ---
 
@@ -293,7 +293,7 @@ uk-railway-ticket-analytics/
 - المبيعات حسب طريقة الدفع  
 - المحطات الأكثر مغادرة ووصولًا  
 
-![Analysis Page](images/analysis_page.png)
+![Analysis Page](Images/analysis_page.png)
 
 ---
 
@@ -307,7 +307,7 @@ uk-railway-ticket-analytics/
 - الاسترداد مقابل حالة الرحلة  
 - الإيرادات حسب نوع التذكرة  
 
-![Operations Page](images/analysis_operations_page.png)
+![Operations Page](Images/analysis_operations_page.png)
 
 ---
 
@@ -320,7 +320,7 @@ uk-railway-ticket-analytics/
 - متوسط السعر حسب النوع والدرجة  
 - الاتجاه الشهري للإيرادات  
 
-![Revenue Trends Page](images/analysis_revenue_trends_page.png)
+![Revenue Trends Page](Images/analysis_revenue_trends_page.png)
 
 ---
 
